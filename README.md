@@ -2,6 +2,10 @@
 
 Natural Language Processing Course Project 2016
 
+Team Member
+-----------
+1.Chinnathambi S
+
 PART - A
 ----------
 1. Collect product reviews from e-commerce sites and label them as + or -
