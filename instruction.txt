@@ -1,0 +1,10 @@
+ 
+  $ g++ dataclean.cpp
+  $ ./a.out 
+
+  $ g++ createvocabulary.cpp
+  $ ./a.out
+
+[+] 'dataclean.cpp'having code to clean 'dataset.txt' and removing stop words with 'stopwords.txt'.
+
+[+] 'createvocabulary.cpp' having code to create 'vocabulary.txt' by using 'aftercleaneddata.txt'.
