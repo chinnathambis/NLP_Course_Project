@@ -1,321 +1,559 @@
-coming
-device
-very 
-good
-but
-not
-the
-perfect
-could
-have
-been
-rating
-limit
-highest
-any
-recent
-times
-almost
-do
-dolby
-does
-work
-like
-corning
-dragontrail
-glass
-change
-see
-with
-every
-music
-atoms
-also
-quality
-through
-headphone
-version
-difference
-on 
-off
-for
-instance
-there
-no
-option
-screen
-notification
-missing
-features
-battery
-heating
-days
-would
-say
-using
-both
-life
-decent
-getting
-when
-playing
-games
-omptimization
-needs
-first
-boot
-around
-force
-apps
-issue
-software
-hardware
-final
-towards
-multimedia
-social
-siting
-casual
-gaming
-lenovo
-warranty
-root
-install
-custom
-os
-note
-camera
-rear
-front
-bad
-lag
-yes
-definitely
-hate
-killer
-ready
-kill
-piece
-crap
-box
-stops
-middle
-answer
-still
-normal
-sir
-stable
-adjust
-it
-was
-time
-sale
-disappoint
-me
-terms
-value
-money
-super
-inch
-awesom
-watching
-videos
-youtube
-will
-got
-phone
-them
-all
-price
-mention
-back
-among
-instantly
-make
-light
-reality
-pictures
-black
-sleek
-lasted
-hours
-being
-everything
-charge
-expandable
-storage
-anybody
-call
-overall
-other
-earphone
-resolution
-whenever
-zoom
-value
-permitted
-health
-volume
-below
-fulfil
-delivery
-specification
-page
-friend
-average
-waiting
-rating
-years
-after
-looking
-brand
-during
-sale
-felt
-lucky
-grap
-month
-wide
-angle
-clarity
-backup
-budget
-temperature
-shit
-speaker
-affected
-towards
-colder
-available
-compared
-signal
-network
-considration
-applications
-chat
-throught
-initialise
-faced
-earlier
-points
-galaxy
-various
-want
-bought
-which
-release
-bells
-usablity
-completely 
-basic
-backend
-android
-stock
-resistance
-added
-advantage
-secured
-holding
-hands
-purchased
-boy
-girl
-responsive
-new
-old
-touch
-absolutely 
-loaded
-grand
-used
-hand
-up
-premium
-nice
-call
-pickup
-commmunication
-apps
-majaority
-intensity
-inch
-finesse
-plastic
-lacks
-fitted
-activity
-ram
-adequately
-somebody
-comparing
-somthing
-blow
-mind
-yesterday
-than
-too
-my
-long
-miss
-sell
-while
-sarting
-dragging
-upgrade
-myself
-ok
-hours
-blindly
-cons
-pros
-out
-pre
-company
-guess
-full
-understand
-put
-hanged
-operating
-application
-got
-dual
-least
-design
-technology
-removoable
-mainly
-viewing
-headphone
-enhancement
-should
-enjoyed
-primary
-secondary
-smooth
-depends
-three
-download
-worry
-part
-lightweight
-about
-through
-accept
-moderate
-takes
-clarity
-recpetion
-headache
-introduced
-killer
-response
-day
-calling
-shot
-controll
-signal
-present
-needed
-facing
-earlier
+able  2
+a  164
+about  19
+above  2
+added  2
+after  24
+all  26
+almost  5
+also  20
+always  2
+am  23
+amer  2
+amera  11
+among  2
+an  12
+and  256
+android  3
+angle  2
+another  3
+any  22
+app  9
+applications  3
+apps  20
+ar  2
+are  52
+around  5
+as  43
+asphalt  6
+at  33
+ater  3
+atmos  8
+attery  14
+available  10
+average  4
+awesom  3
+awesome  16
+back  15
+background  2
+backup  4
+bad  13
+basic  2
+batter  5
+battery  43
+be  53
+because  6
+been  5
+before  5
+being  4
+below  2
+best  16
+better  27
+big  3
+bit  7
+black  2
+body  3
+both  11
+bought  11
+box  2
+brand  2
+budget  4
+build  5
+but  85
+buy  12
+buying  3
+by  11
+call  8
+calls  8
+cam  6
+came  2
+camer  5
+camera  38
+can  22
+cannot  3
+cant  6
+card  7
+certain  2
+charge  7
+charged  4
+charging  6
+checked  4
+clarity  7
+clea  2
+clear  5
+close  2
+come  2
+comes  2
+coming  3
+compare  3
+compared  7
+complain  2
+complaints  2
+con  2
+concern  2
+cons  4
+considering  2
+core  3
+cost  3
+could  6
+cover  6
+creen  3
+crisp  6
+da  3
+data  6
+day  24
+days  9
+decent  5
+deliver  2
+delivered  4
+delivery  7
+design  6
+device  12
+different  2
+disappointed  3
+displa  2
+display  15
+do  5
+does  14
+doesnt  6
+dolby  6
+dont  22
+download  3
+dual  2
+due  2
+during  2
+e  2
+ear  5
+earphones  2
+earpiece  2
+easily  2
+eating  3
+else  2
+end  7
+enough  8
+enovo  3
+erformance  3
+ery  2
+est  5
+etc  2
+even  20
+everything  2
+eview  2
+expect  5
+expected  3
+experience  9
+f  5
+face  5
+faced  2
+facing  3
+fact  2
+fast  7
+faster  2
+featur  2
+feature  7
+features  7
+feel  3
+feels  2
+few  6
+find  3
+fine  3
+first  15
+flash  5
+flaws  2
+flipkar  3
+flipkart  20
+for  122
+found  5
+free  4
+from  28
+front  15
+fter  5
+full  16
+function  2
+g  27
+galaxy  4
+game  5
+games  15
+gaming  3
+gb  20
+get  13
+gets  3
+getting  10
+ghz  2
+give  7
+given  7
+gives  2
+giving  2
+glass  5
+go  8
+going  2
+goo  13
+good  78
+got  7
+grand  4
+graphics  2
+grea  3
+great  14
+grip  2
+guard  2
+gud  5
+had  6
+hang  2
+has  24
+hat  2
+have  53
+havent  2
+having  3
+hd  10
+he  28
+headphones  5
+headset  3
+hear  3
+heard  4
+heat  11
+heating  13
+heats  3
+heavy  6
+hen  3
+here  8
+high  13
+his  11
+hold  4
+hone  3
+hour  2
+hours  9
+how  2
+hr  2
+hrs  4
+i  150
+if  35
+ifi  2
+ill  3
+in  104
+inch  5
+internal  2
+internet  7
+into  2
+irst  2
+is  283
+isnt  2
+isplay  3
+issue  14
+issues  7
+it  141
+its  34
+july  3
+just  17
+k  49
+killer  4
+kind  2
+know  6
+lag  9
+lags  6
+last  7
+lasts  3
+latest  3
+launcher  2
+lenovo  21
+less  10
+let  3
+life  4
+light  13
+like  32
+lipkart  3
+little  12
+lock  2
+long  6
+look  7
+looking  3
+looks  7
+lot  15
+loud  2
+love  3
+low  13
+lower  2
+m  8
+made  2
+mah  12
+major  2
+make  5
+many  13
+market  2
+max  2
+may  5
+mb  14
+me  19
+medium  2
+memory  4
+messenger  2
+mi  5
+might  2
+min  4
+miss  7
+mobil  4
+mobile  23
+mobiles  3
+mode  2
+mone  3
+month  3
+more  14
+most  4
+moto  24
+motorola  3
+mp  11
+much  15
+music  6
+my  41
+n  3
+nd  4
+need  3
+needs  6
+network  4
+never  3
+new  5
+next  4
+nice  9
+no  34
+normal  3
+not  104
+note  39
+nothing  3
+noticed  3
+now  11
+o  22
+obile  2
+object  2
+of  137
+ok  2
+olby  3
+old  2
+on  74
+once  5
+one  30
+oneplus  9
+only  13
+ont  2
+ood  11
+option  6
+options  3
+or  30
+ordered  2
+os  4
+ot  6
+oth  4
+other  24
+ou  2
+ouch  4
+ound  4
+out  15
+over  6
+overall  6
+ow  5
+own  3
+packed  2
+part  2
+pathetic  2
+people  2
+per  6
+perfect  3
+performanc  3
+performance  11
+person  3
+phon  15
+phone  119
+phones  12
+pic  2
+pictures  3
+piece  3
+plastic  2
+play  6
+playing  6
+poor  3
+powe  2
+power  5
+pretty  2
+pric  5
+price  14
+primary  3
+proble  3
+problem  13
+processor  3
+product  13
+properly  3
+pros  4
+provide  2
+purchase  3
+purchased  2
+qualit  12
+quality  24
+quite  2
+ra  2
+ram  18
+rang  2
+range  6
+rating  2
+really  19
+rear  9
+reason  3
+recommend  2
+redmi  2
+released  2
+replacemen  2
+request  2
+response  3
+return  5
+revie  3
+review  5
+reviews  4
+right  2
+ro  2
+rs  3
+running  2
+s  3
+said  3
+sale  5
+same  8
+samsung  9
+sar  4
+saver  2
+say  8
+scree  7
+screen  18
+sd  6
+see  6
+seems  5
+seen  3
+sensor  5
+sensors  2
+service  8
+set  3
+settings  3
+shape  2
+should  7
+show  2
+showed  2
+shows  5
+similar  3
+since  4
+slow  3
+smooth  8
+so  30
+software  5
+some  21
+something  5
+sometimes  2
+sound  8
+speaker  4
+spec  4
+specifications  2
+specs  5
+st  4
+stable  2
+still  6
+storage  2
+store  2
+strength  2
+sturdy  2
+such  7
+super  5
+superb  3
+support  2
+supports  2
+sure  7
+system  3
+t  6
+take  8
+taken  3
+takes  8
+taking  3
+tap  2
+temperature  2
+th  3
+than  32
+that  42
+thats  5
+the  326
+their  3
+them  5
+then  14
+there  20
+these  4
+they  14
+thing  12
+things  2
+think  6
+this  82
+though  6
+through  6
+till  5
+tim  2
+time  14
+to  186
+today  4
+told  2
+tone  2
+too  6
+took  2
+touch  8
+try  3
+ts  13
+u  20
+ui  6
+under  2
+up  21
+update  11
+upgrade  2
+upto  2
+ur  3
+usage  19
+usb  2
+use  21
+used  15
+useful  2
+user  2
+uses  2
+using  29
+ut  2
+value  8
+version  4
+very  32
+video  3
+videos  2
+viewing  4
+vodafone  2
+voice  2
+wait  2
+waiting  4
+want  6
+wanted  2
+was  28
+watching  2
+way  3
+we  3
+week  2
+weight  5
+well  9
+what  11
+whatsapp  4
+when  25
+where  2
+which  40
+while  19
+who  7
+wifi  16
+will  40
+with  103
+within  3
+without  8
+wkg  2
+wont  4
+work  4
+working  7
+worried  2
+worth  3
+would  25
+y  3
+ye  2
+yet  5
+you  57
+your  13
