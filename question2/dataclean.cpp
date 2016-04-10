@@ -16,7 +16,7 @@ vector<string> split(string str){
 		}
 		i++;
 	}
-	if(token!=""){
+	if(token.length()>0){
 		token.erase(token.size() - 1);
 		words.push_back(token);
 	}
@@ -36,7 +36,7 @@ int main(){
 	map<string,int> stopwords;
 	char str1[1001];
 	int i=1;
-	while(fgets(str1,1000,file1)!=NULL)
+	while(fscanf(file1,"%s",str1)>0)
 	{
 		stopwords[str1]=i;
 		i++;
