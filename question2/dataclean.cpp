@@ -31,7 +31,7 @@ int main(){
 	
 
 	FILE *file1 = fopen("stopwords.txt","r");
-	FILE *file2 = fopen("dataset.txt","r");
+	FILE *file2 = fopen("datasetrev.txt","r");
 	FILE *outfile = fopen("Aftercleaneddata.txt","w");
 	map<string,int> stopwords;
 	char str1[1001];
