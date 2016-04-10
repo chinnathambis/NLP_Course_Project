@@ -123,6 +123,6 @@ while(getline(fn,str2))
 }	  
 cout<<"Correct Prediction: "<<correct<<endl;
 cout<<"Wrong Prediction: "<<wrong<<endl;
-cout<<"Accuracy: "<<(double)correct/(correct+wrong)*100<<"%"<<endl;
+cout<<"Accuracy of Multinomial Naive Bayes Model: "<<(double)correct/(correct+wrong)*100<<"%"<<endl;
 return 0;
 }
