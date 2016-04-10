@@ -1,10 +1,39 @@
- 
+ Question No 2
+ --------------
   $ g++ dataclean.cpp
   $ ./a.out 
 
+[+] 'dataclean.cpp'having code to clean 'datasetrev.txt' and removing stop words with 'stopwords.txt'.
+
+ Question No 3
+ --------------
+ 
   $ g++ createvocabulary.cpp
   $ ./a.out
 
-[+] 'dataclean.cpp'having code to clean 'dataset.txt' and removing stop words with 'stopwords.txt'.
-
 [+] 'createvocabulary.cpp' having code to create 'vocabulary.txt' by using 'aftercleaneddata.txt'.
+
+ Question No 4
+ --------------
+  $ g++ training_q4.cpp
+  $ ./a.out
+ 
+ [+] 'trainging_q4.cpp' having code for calculating no of neg and pos words, and finding a particular words of pos/neg probablity. Multinomial naive bayes model and usign laplace smoothing/add one smoothing.
+
+ Question No 5
+ -------------- 
+  $ g++ q5_a.cpp
+  $ ./a.out
+  
+  $ g++ q5_b.cpp
+  $ ./a.out
+  
+  [+] Takigng 250 negative and positive review then 450 training data and 50 test data.
+  
+  step 01 : 'q5_a.cpp' having code for 'voc_9p.txt'
+  
+  step 02 : 'q5_b.cpp' having code for 'Multinomial Naive Bayes Model Accuracy'.
+  
+  
+
+
