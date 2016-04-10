@@ -10,13 +10,13 @@ vector<string> split(string str){
 		if(str[i]!=' ')
 			token.push_back(str[i]);
 		else{
-			if(token[0]>='a' && token[0]<='z')
+			if(token.length()>0 && token[0]>='a' && token[0]<='z')
 				words.push_back(token);
 			token="";
 		}
 		i++;
 	}
-	if(token!=""){
+	if(token.length()>0 && token[0]>='a' && token[0]<='z'){
 		token.erase(token.size() - 1);
 		words.push_back(token);
 	}
@@ -31,7 +31,9 @@ int main(){
 	
 	FILE *file2 = fopen("Aftercleaneddata.txt","r");
 	FILE *outfile = fopen("vocabulary.txt","w");
-	map<string,int> voc;
+	map<string,int> vocPos;
+	map<string,int> vocNeg;
+	map<string,int> totalwords;
 	char str1[1001];
 		
 	
@@ -41,21 +43,53 @@ int main(){
 		vector<string> words = split(str1);
 
 		for(int i=0;i<words.size();i++){
-			if(voc.find(words[i])==voc.end())
-				voc[words[i]]=0;
+			
+
+			if(totalwords.find(words[i])==totalwords.end())
+				totalwords[words[i]]=1;
 			else
-				voc[words[i]]++;
+				totalwords[words[i]]++;
+
+
+			if(str1[0]=='+')
+				if(vocPos.find(words[i])==vocPos.end())
+					vocPos[words[i]]=1;
+				else
+					vocPos[words[i]]++;
+			else
+				if(vocNeg.find(words[i])==vocNeg.end())
+					vocNeg[words[i]]=1;
+				else
+					vocNeg[words[i]]++;
+			
 		}
 	}
 
-	map<string,int>::iterator it=voc.begin();
-	it++;
-	while(it != voc.end()){
+	map<string,int>::iterator it=totalwords.begin();
+	
+	while(it != totalwords.end()){
+		
 		if((it->second)>1){
 			fputs((it->first).c_str(),outfile);
-			fputs("  ",outfile);
-			sprintf(str1, "%d", it->second);
-			fputs(str1,outfile);
+			fputs(" ",outfile);
+
+			if(vocPos.find(it->first)==vocPos.end())
+				fputs("0",outfile);
+			else{
+				sprintf(str1, "%d", vocPos[it->first]);
+				fputs(str1,outfile);
+			}
+
+			fputs(" ",outfile);
+			
+
+			if(vocNeg.find(it->first)==vocNeg.end())
+				fputs("0",outfile);
+			else{
+				sprintf(str1, "%d", vocNeg[it->first]);
+				fputs(str1,outfile);
+			}
+
 			fputs("\n",outfile);
 		}
 		it++;

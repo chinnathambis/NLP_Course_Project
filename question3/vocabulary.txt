@@ -1,559 +1,739 @@
-able  2
-a  164
-about  19
-above  2
-added  2
-after  24
-all  26
-almost  5
-also  20
-always  2
-am  23
-amer  2
-amera  11
-among  2
-an  12
-and  256
-android  3
-angle  2
-another  3
-any  22
-app  9
-applications  3
-apps  20
-ar  2
-are  52
-around  5
-as  43
-asphalt  6
-at  33
-ater  3
-atmos  8
-attery  14
-available  10
-average  4
-awesom  3
-awesome  16
-back  15
-background  2
-backup  4
-bad  13
-basic  2
-batter  5
-battery  43
-be  53
-because  6
-been  5
-before  5
-being  4
-below  2
-best  16
-better  27
-big  3
-bit  7
-black  2
-body  3
-both  11
-bought  11
-box  2
-brand  2
-budget  4
-build  5
-but  85
-buy  12
-buying  3
-by  11
-call  8
-calls  8
-cam  6
-came  2
-camer  5
-camera  38
-can  22
-cannot  3
-cant  6
-card  7
-certain  2
-charge  7
-charged  4
-charging  6
-checked  4
-clarity  7
-clea  2
-clear  5
-close  2
-come  2
-comes  2
-coming  3
-compare  3
-compared  7
-complain  2
-complaints  2
-con  2
-concern  2
-cons  4
-considering  2
-core  3
-cost  3
-could  6
-cover  6
-creen  3
-crisp  6
-da  3
-data  6
-day  24
-days  9
-decent  5
-deliver  2
-delivered  4
-delivery  7
-design  6
-device  12
-different  2
-disappointed  3
-displa  2
-display  15
-do  5
-does  14
-doesnt  6
-dolby  6
-dont  22
-download  3
-dual  2
-due  2
-during  2
-e  2
-ear  5
-earphones  2
-earpiece  2
-easily  2
-eating  3
-else  2
-end  7
-enough  8
-enovo  3
-erformance  3
-ery  2
-est  5
-etc  2
-even  20
-everything  2
-eview  2
-expect  5
-expected  3
-experience  9
-f  5
-face  5
-faced  2
-facing  3
-fact  2
-fast  7
-faster  2
-featur  2
-feature  7
-features  7
-feel  3
-feels  2
-few  6
-find  3
-fine  3
-first  15
-flash  5
-flaws  2
-flipkar  3
-flipkart  20
-for  122
-found  5
-free  4
-from  28
-front  15
-fter  5
-full  16
-function  2
-g  27
-galaxy  4
-game  5
-games  15
-gaming  3
-gb  20
-get  13
-gets  3
-getting  10
-ghz  2
-give  7
-given  7
-gives  2
-giving  2
-glass  5
-go  8
-going  2
-goo  13
-good  78
-got  7
-grand  4
-graphics  2
-grea  3
-great  14
-grip  2
-guard  2
-gud  5
-had  6
-hang  2
-has  24
-hat  2
-have  53
-havent  2
-having  3
-hd  10
-he  28
-headphones  5
-headset  3
-hear  3
-heard  4
-heat  11
-heating  13
-heats  3
-heavy  6
-hen  3
-here  8
-high  13
-his  11
-hold  4
-hone  3
-hour  2
-hours  9
-how  2
-hr  2
-hrs  4
-i  150
-if  35
-ifi  2
-ill  3
-in  104
-inch  5
-internal  2
-internet  7
-into  2
-irst  2
-is  283
-isnt  2
-isplay  3
-issue  14
-issues  7
-it  141
-its  34
-july  3
-just  17
-k  49
-killer  4
-kind  2
-know  6
-lag  9
-lags  6
-last  7
-lasts  3
-latest  3
-launcher  2
-lenovo  21
-less  10
-let  3
-life  4
-light  13
-like  32
-lipkart  3
-little  12
-lock  2
-long  6
-look  7
-looking  3
-looks  7
-lot  15
-loud  2
-love  3
-low  13
-lower  2
-m  8
-made  2
-mah  12
-major  2
-make  5
-many  13
-market  2
-max  2
-may  5
-mb  14
-me  19
-medium  2
-memory  4
-messenger  2
-mi  5
-might  2
-min  4
-miss  7
-mobil  4
-mobile  23
-mobiles  3
-mode  2
-mone  3
-month  3
-more  14
-most  4
-moto  24
-motorola  3
-mp  11
-much  15
-music  6
-my  41
-n  3
-nd  4
-need  3
-needs  6
-network  4
-never  3
-new  5
-next  4
-nice  9
-no  34
-normal  3
-not  104
-note  39
-nothing  3
-noticed  3
-now  11
-o  22
-obile  2
-object  2
-of  137
-ok  2
-olby  3
-old  2
-on  74
-once  5
-one  30
-oneplus  9
-only  13
-ont  2
-ood  11
-option  6
-options  3
-or  30
-ordered  2
-os  4
-ot  6
-oth  4
-other  24
-ou  2
-ouch  4
-ound  4
-out  15
-over  6
-overall  6
-ow  5
-own  3
-packed  2
-part  2
-pathetic  2
-people  2
-per  6
-perfect  3
-performanc  3
-performance  11
-person  3
-phon  15
-phone  119
-phones  12
-pic  2
-pictures  3
-piece  3
-plastic  2
-play  6
-playing  6
-poor  3
-powe  2
-power  5
-pretty  2
-pric  5
-price  14
-primary  3
-proble  3
-problem  13
-processor  3
-product  13
-properly  3
-pros  4
-provide  2
-purchase  3
-purchased  2
-qualit  12
-quality  24
-quite  2
-ra  2
-ram  18
-rang  2
-range  6
-rating  2
-really  19
-rear  9
-reason  3
-recommend  2
-redmi  2
-released  2
-replacemen  2
-request  2
-response  3
-return  5
-revie  3
-review  5
-reviews  4
-right  2
-ro  2
-rs  3
-running  2
-s  3
-said  3
-sale  5
-same  8
-samsung  9
-sar  4
-saver  2
-say  8
-scree  7
-screen  18
-sd  6
-see  6
-seems  5
-seen  3
-sensor  5
-sensors  2
-service  8
-set  3
-settings  3
-shape  2
-should  7
-show  2
-showed  2
-shows  5
-similar  3
-since  4
-slow  3
-smooth  8
-so  30
-software  5
-some  21
-something  5
-sometimes  2
-sound  8
-speaker  4
-spec  4
-specifications  2
-specs  5
-st  4
-stable  2
-still  6
-storage  2
-store  2
-strength  2
-sturdy  2
-such  7
-super  5
-superb  3
-support  2
-supports  2
-sure  7
-system  3
-t  6
-take  8
-taken  3
-takes  8
-taking  3
-tap  2
-temperature  2
-th  3
-than  32
-that  42
-thats  5
-the  326
-their  3
-them  5
-then  14
-there  20
-these  4
-they  14
-thing  12
-things  2
-think  6
-this  82
-though  6
-through  6
-till  5
-tim  2
-time  14
-to  186
-today  4
-told  2
-tone  2
-too  6
-took  2
-touch  8
-try  3
-ts  13
-u  20
-ui  6
-under  2
-up  21
-update  11
-upgrade  2
-upto  2
-ur  3
-usage  19
-usb  2
-use  21
-used  15
-useful  2
-user  2
-uses  2
-using  29
-ut  2
-value  8
-version  4
-very  32
-video  3
-videos  2
-viewing  4
-vodafone  2
-voice  2
-wait  2
-waiting  4
-want  6
-wanted  2
-was  28
-watching  2
-way  3
-we  3
-week  2
-weight  5
-well  9
-what  11
-whatsapp  4
-when  25
-where  2
-which  40
-while  19
-who  7
-wifi  16
-will  40
-with  103
-within  3
-without  8
-wkg  2
-wont  4
-work  4
-working  7
-worried  2
-worth  3
-would  25
-y  3
-ye  2
-yet  5
-you  57
-your  13
+able 3 1
+above 2 1
+accept 2 0
+accessories 0 2
+accurate 2 0
+added 0 3
+additional 1 1
+adjust 1 1
+again 1 1
+airtel 2 0
+allowed 0 2
+almost 2 4
+along 1 1
+als 1 1
+always 2 1
+among 1 2
+android 0 4
+angle 1 2
+another 2 2
+antutu 2 0
+anybody 0 2
+anyone 1 1
+anything 2 0
+app 6 4
+application 1 1
+applications 2 2
+apps 9 12
+areas 2 0
+around 3 3
+asked 0 2
+asphalt 5 3
+atmos 6 3
+audio 3 1
+authentication 2 0
+available 4 7
+average 4 2
+away 2 0
+awesom 1 3
+awesome 16 2
+b 0 2
+ba 1 1
+background 1 2
+backup 2 3
+bad 11 3
+based 0 2
+basic 1 2
+batter 2 5
+battery 37 22
+beast 1 1
+beats 1 1
+beautiful 1 1
+beauty 2 0
+been 4 2
+before 5 1
+being 1 4
+below 1 2
+best 18 5
+better 17 11
+between 0 2
+big 1 4
+biggest 0 2
+bit 7 1
+black 1 3
+bloatwares 2 0
+body 5 0
+boost 2 0
+both 6 11
+bought 6 6
+box 2 1
+brand 2 1
+browsing 2 0
+budget 2 3
+build 5 2
+built 0 2
+buttons 1 1
+buy 8 6
+buye 1 1
+buying 3 1
+ca 1 1
+call 5 7
+calls 6 3
+cam 6 1
+came 2 1
+camer 4 5
+camera 31 20
+candy 0 2
+cannot 3 1
+cant 2 5
+card 8 0
+cause 2 0
+certain 0 3
+certified 1 1
+chance 0 2
+charge 2 6
+charged 5 1
+charger 1 1
+charging 4 4
+chat 0 3
+check 1 1
+checked 5 0
+chip 1 1
+choice 1 1
+clarity 4 4
+clea 0 3
+clear 3 3
+close 1 2
+cluttered 0 2
+cm 2 0
+color 1 1
+comes 2 2
+coming 3 1
+comment 1 1
+common 0 2
+company 2 0
+compare 2 3
+compared 4 4
+complain 3 0
+complaints 1 2
+completely 0 2
+con 4 2
+concern 2 1
+condition 2 0
+connectivity 1 2
+cons 4 1
+consider 1 1
+considering 1 2
+consumption 1 1
+contacted 0 3
+continuous 2 0
+core 3 1
+cost 2 2
+couple 2 0
+cove 0 2
+cover 4 3
+create 2 0
+crisp 5 2
+customer 0 2
+d 0 2
+da 0 4
+daily 2 0
+data 5 2
+days 7 3
+decent 1 5
+decide 1 1
+definitely 1 1
+degrees 0 2
+deliver 1 2
+delivered 5 0
+delivery 5 3
+depends 1 1
+design 4 3
+desired 0 2
+despite 0 2
+device 6 7
+did 0 3
+didnt 2 1
+different 2 1
+disappointed 1 3
+displa 4 1
+display 19 1
+does 4 12
+doesnt 7 1
+dolby 7 4
+dont 16 10
+double 2 0
+download 3 1
+drains 1 1
+drop 2 0
+drops 2 0
+dslr 2 0
+dual 2 1
+due 1 2
+during 1 2
+e 0 3
+ear 3 1
+earphones 2 1
+earpiece 1 2
+easily 1 2
+edit 1 1
+effort 2 0
+either 2 0
+else 2 1
+end 4 4
+enjoy 1 1
+enough 5 4
+etc 2 1
+evening 2 0
+every 1 1
+everything 3 0
+except 0 2
+excessive 0 2
+expect 5 1
+expecte 1 1
+expected 3 1
+experience 4 6
+fa 1 1
+face 2 4
+faced 0 3
+facing 3 2
+fact 2 1
+fantastic 2 0
+far 0 2
+fast 2 6
+faster 3 2
+featur 3 0
+feature 4 4
+features 6 2
+feel 5 0
+feels 0 3
+few 4 4
+find 2 2
+fine 2 2
+finishing 0 2
+fit 1 1
+flash 4 2
+flaws 3 0
+flipkar 4 0
+flipkart 10 15
+following 2 0
+found 2 4
+frame 2 1
+free 5 0
+front 7 11
+full 15 4
+function 2 1
+future 2 0
+g 8 20
+galaxy 4 1
+game 4 2
+games 11 6
+gamin 1 1
+gaming 3 2
+gb 14 7
+gen 1 1
+generatio 0 2
+gets 4 0
+getting 7 4
+ghz 3 0
+given 3 5
+gives 0 3
+giving 3 0
+glass 2 4
+going 3 0
+goo 9 5
+good 49 42
+google 2 0
+gorilla 2 0
+got 5 5
+gpu 2 0
+grand 1 4
+graphics 3 2
+grea 0 4
+great 9 7
+grip 0 3
+guard 1 2
+gud 6 0
+guess 1 1
+guy 2 0
+had 5 2
+hand 2 0
+hands 0 2
+handy 0 2
+hang 0 3
+hanged 1 1
+happened 1 1
+happy 0 2
+hardware 1 1
+has 15 11
+havent 2 1
+having 3 1
+hd 9 2
+hdr 1 1
+headphone 0 2
+headphones 4 2
+headset 3 1
+hear 2 2
+heard 3 2
+heat 8 5
+heatin 1 1
+heating 9 9
+heats 0 4
+heavy 5 2
+hell 2 0
+hence 2 0
+here 6 1
+hi 1 1
+high 7 7
+hold 2 3
+holding 0 2
+hot 1 1
+hour 3 0
+hours 5 5
+however 1 2
+hr 2 1
+hrs 3 2
+htc 1 1
+icons 0 2
+ie 1 1
+ill 1 1
+im 1 2
+image 1 1
+images 1 1
+immediately 1 1
+important 1 1
+improve 1 1
+inch 3 3
+including 1 1
+india 0 2
+initial 1 1
+inspite 2 0
+install 1 1
+installed 1 1
+instead 1 1
+internal 2 1
+internet 6 2
+iron 0 2
+isnt 0 3
+issu 2 0
+issue 5 10
+issues 5 3
+itself 2 0
+ive 1 1
+jack 1 1
+job 1 1
+july 4 0
+k 32 18
+killer 5 1
+kind 1 2
+know 4 3
+la 1 1
+lacks 0 2
+lag 7 3
+lagging 0 2
+lags 4 3
+large 1 3
+last 3 5
+lasts 3 1
+latest 4 0
+launcher 2 1
+least 2 0
+leaves 0 2
+led 1 1
+lenovo 20 6
+less 3 8
+let 2 2
+level 0 2
+life 2 3
+ligh 0 2
+light 9 6
+lightweight 2 0
+lik 1 1
+like 18 15
+lit 2 0
+little 9 4
+load 2 0
+lock 2 1
+lolipop 2 0
+long 7 2
+looked 2 0
+looking 3 1
+looks 5 3
+lot 10 6
+loud 2 1
+love 2 2
+low 8 5
+lower 2 1
+lte 2 1
+luk 2 0
+m 6 2
+made 2 1
+mah 10 3
+major 2 1
+majority 0 2
+make 2 4
+makes 2 0
+many 10 4
+market 0 3
+matters 1 1
+max 2 1
+maximum 0 2
+may 3 3
+mb 11 4
+mbps 2 0
+means 2 0
+medium 1 2
+meizu 2 0
+memory 5 0
+mention 1 1
+menu 2 0
+message 0 2
+messenger 0 3
+mi 4 2
+might 3 0
+min 3 2
+mins 1 1
+minutes 2 0
+miss 7 1
+mm 1 1
+mobil 2 3
+mobile 17 10
+mobiles 4 0
+mode 3 0
+model 1 1
+moderate 1 1
+mone 3 1
+money 1 1
+month 2 2
+more 5 11
+morning 1 1
+mostly 2 0
+moto 1 25
+motorola 0 5
+moved 2 0
+mp 8 4
+mpx 2 0
+much 8 8
+multi 1 1
+multitasking 0 3
+mumbai 0 2
+music 2 5
+nd 1 1
+need 2 3
+needs 3 4
+network 2 4
+never 2 2
+new 4 2
+next 2 4
+nice 6 6
+no 18 27
+nokia 1 1
+nor 1 1
+normal 1 3
+not 51 59
+note 30 10
+nothing 3 1
+noticed 3 1
+notification 1 1
+o 0 5
+object 3 0
+octa 1 1
+ok 3 0
+old 0 3
+once 4 2
+oneplus 7 3
+option 4 3
+options 2 2
+ordered 1 2
+os 3 2
+otherwise 2 0
+overall 3 5
+own 3 1
+p 1 1
+packed 2 1
+part 3 0
+pathetic 0 3
+people 4 0
+peoples 2 0
+per 1 6
+perfect 1 3
+perfection 0 2
+performanc 3 3
+performance 12 4
+person 1 3
+phablet 2 0
+phon 9 7
+phone 75 49
+phones 5 8
+photos 1 1
+pic 3 0
+pics 1 1
+picture 1 1
+pictures 2 2
+piece 3 1
+pixels 2 0
+plastic 2 1
+play 5 2
+playing 4 3
+please 2 0
+point 1 1
+poor 1 3
+post 2 0
+powe 2 1
+power 5 1
+preinstalled 2 0
+premium 2 1
+present 2 0
+pretty 2 1
+previous 0 2
+pric 2 4
+price 5 10
+primary 3 1
+pro 3 0
+proble 3 1
+problem 9 6
+problems 2 0
+processing 1 1
+processor 3 1
+produc 1 1
+product 8 7
+products 2 0
+proper 2 0
+properly 1 3
+pros 5 0
+protection 1 1
+provide 1 2
+provided 1 1
+proximity 1 1
+purchase 4 0
+purchased 2 1
+pure 0 2
+put 1 2
+qualit 6 7
+quality 12 13
+quite 1 2
+ra 1 2
+ram 10 11
+rang 1 2
+range 4 3
+rare 2 0
+rating 2 1
+real 2 0
+really 14 7
+rear 7 5
+reason 3 1
+received 0 2
+recent 1 1
+recommend 2 1
+recurring 0 2
+redmi 0 3
+reduce 2 0
+release 0 2
+released 1 2
+removable 2 1
+replace 2 0
+replacemen 0 3
+request 2 1
+required 1 1
+resistant 0 2
+resolution 1 2
+response 4 0
+retail 1 1
+return 5 1
+returned 1 1
+revie 4 0
+review 6 3
+reviews 5 0
+right 0 3
+room 1 1
+rs 2 2
+running 1 2
+runs 1 1
+said 0 4
+sal 2 0
+sale 3 3
+same 6 3
+samsung 1 9
+sar 4 3
+saver 2 1
+saying 0 2
+scree 5 3
+screen 9 14
+sd 7 0
+secondly 1 1
+secure 2 0
+seeing 1 1
+seems 2 4
+seen 1 3
+sel 2 0
+selfie 0 2
+selfies 2 0
+sense 1 1
+sensor 4 2
+sensors 5 0
+service 6 3
+set 2 2
+settings 2 2
+shape 3 0
+sharp 2 0
+should 7 1
+show 3 0
+showed 3 0
+showing 1 1
+shows 5 1
+si 1 1
+side 0 2
+signal 1 1
+sim 0 2
+similar 2 2
+sims 1 1
+since 2 3
+size 2 1
+slow 0 5
+sluggish 0 2
+smartphone 2 0
+smoot 1 1
+smooth 5 4
+smoothly 2 0
+snaps 0 2
+social 0 2
+software 5 2
+something 3 3
+sometime 1 1
+sometimes 2 1
+sony 2 0
+soun 1 1
+sound 8 6
+speaker 3 3
+speaking 0 2
+spec 3 2
+specially 0 2
+specifications 1 2
+specs 3 4
+spee 2 0
+speed 2 0
+spend 0 2
+st 4 1
+stabilization 1 1
+stable 2 1
+still 5 2
+stock 0 2
+storag 0 2
+storage 4 0
+store 2 1
+strength 2 1
+sturdy 2 1
+such 6 2
+super 3 3
+superb 3 2
+support 3 1
+supports 1 2
+sure 5 3
+surprised 2 0
+switch 2 0
+system 4 1
+t 2 0
+take 5 4
+taken 1 3
+takes 5 4
+taking 2 2
+talking 1 1
+tap 3 0
+tell 1 1
+temperature 2 1
+terms 1 1
+th 3 0
+thanks 3 1
+thats 3 4
+theme 1 1
+thi 0 2
+thing 10 3
+things 0 3
+those 1 1
+though 5 3
+through 4 3
+till 2 4
+tim 2 1
+time 6 9
+times 1 1
+today 3 2
+together 1 1
+told 1 2
+tone 1 2
+too 5 2
+took 0 3
+top 1 1
+totally 2 0
+touch 11 3
+touchwiz 1 1
+towards 0 2
+tried 2 1
+true 2 0
+try 3 1
+u 15 7
+ui 4 5
+unable 0 2
+under 2 1
+update 10 2
+upgrade 1 2
+upto 1 2
+ur 4 0
+usabilit 0 2
+usable 1 1
+usage 9 11
+usb 2 1
+used 7 9
+useful 0 3
+useless 0 2
+user 2 2
+uses 1 2
+usin 2 0
+using 21 9
+usually 2 0
+value 5 4
+version 2 3
+very 13 23
+vibrant 1 1
+video 3 1
+videos 2 1
+viewing 3 2
+vivid 2 0
+vodafone 0 3
+voice 2 1
+volume 1 1
+wait 3 0
+waiting 1 4
+wake 2 0
+wanted 3 0
+warm 1 1
+watching 2 1
+water 0 4
+week 2 1
+weight 6 1
+whatever 1 1
+whatsapp 1 4
+where 2 1
+while 11 9
+white 0 2
+wide 1 1
+wifi 10 10
+wifig 1 1
+within 4 0
+without 8 1
+wkg 1 2
+wont 2 3
+worked 2 0
+working 1 7
+works 2 0
+worried 3 0
+wors 2 0
+worst 3 0
+worth 2 2
+ws 1 1
+ye 2 1
+years 0 2
+yes 1 1
+yesterday 0 2
+yet 3 3
+yo 0 2
+zone 2 0
